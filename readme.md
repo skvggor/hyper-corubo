@@ -1,6 +1,8 @@
-# hyper-corubo
-
-A dark (i.e. cool) theme for Hyper.
+<h1 align="center">hyper-corubo</h1>
+<p align="center">A dark (i.e. cool) theme for <a href="https://hyper.is/">Hyper</a>.</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/958723/39777968-70124386-52db-11e8-8700-001263e582ce.png">
+</p>
 
 ---
 
