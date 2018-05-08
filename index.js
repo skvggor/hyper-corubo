@@ -2,15 +2,15 @@
 
 const colors = {
 	backgroundColor: '#231f20',
-	black: '#000',
-	blue: '#06f',
-	cyan: '#0ff',
 	foregroundColor: '#d9d8d8',
-	gray: '#737171',
+	black: '#000',
+	red: "#ff4136",
 	green: '#3f0',
+	yellow: '#ff0',
+	blue: '#06f',
 	magenta: '#f09',
-	red: '#ff0',
-	white: '#fff'
+	cyan: '#0ff',
+	gray: '#737171'
 }
 
 exports.decorateConfig = config => {
